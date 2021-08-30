@@ -86,11 +86,11 @@ export default {
     }
 
     .card-content {
-      text-align: center;
       padding: 71px 95px 59px 72px;
 
       @media (max-width: 768px) {
         padding: 35px 47px 29px 36px;
+        text-align: center;
       }
 
       @media (max-width: 651px) {
